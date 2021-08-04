@@ -65,14 +65,7 @@ li a.navLink:hover {
 
 
 
-/* sign-in header message */
 
-.sign-in {
-    margin: 0;
-    background-color: burlywood;
-    text-align: center;
-    text-shadow: 2px 3px 5px rgb(90, 90, 90);
-}
 
 /* active link */
 
@@ -105,7 +98,7 @@ div {
 main p {
    height: 79px;
    left: 20px; 
-   color: white;
+   color: rgb(9, 0, 133);
    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
    font-size: larger;
 }
@@ -115,5 +108,5 @@ main p {
     top: -13px;
     left: 20px;
     width: 254px;
-    background-color: #0572c5;
+    background-color: #0081e47c;
 }
